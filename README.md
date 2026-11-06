@@ -28,7 +28,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/bkif/PhonkChess">
-        <img src="https://github.com/user-attachments/assets/82a5e1f2-4f45-46ac-abe0-228dc60ccd14" alt="PhonkChess Preview" width="100%" style="border-radius: 8px;" />
+        <img src="https://github.com/user-attachments/assets/82a5e1f2-4f45-46ac-abe0-228dc60ccd14" alt="PhonkChess Preview" width="50%" style="border-radius: 4px;" />
       </a>
       <h3 align="center">♟️ <a href="https://github.com/bkif/PhonkChess">PhonkChess</a></h3>
       <p align="center">
