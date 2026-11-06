@@ -26,10 +26,12 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/bkif/PhonkChess">
-        <img src="https://github.com/user-attachments/assets/82a5e1f2-4f45-46ac-abe0-228dc60ccd14" alt="PhonkChess Preview" width="50%" style="border-radius: 4px;" />
-      </a>
+  <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/bkif/PhonkChess">
+          <img src="https://github.com/user-attachments/assets/82a5e1f2-4f45-46ac-abe0-228dc60ccd14" alt="PhonkChess Preview" width="180" style="border-radius: 10px;" />
+        </a>
+      </p>
       <h3 align="center">♟️ <a href="https://github.com/bkif/PhonkChess">PhonkChess</a></h3>
       <p align="center">
         <b>The world’s first open-source chess platform featuring phonk beats, dynamic edit animations, and free game analysis.</b>
