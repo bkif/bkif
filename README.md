@@ -27,6 +27,9 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/bkif/PhonkChess">
+        <img src="https://raw.githubusercontent.com/bkif/PhonkChess/main/preview.jpg" alt="PhonkChess Preview" width="100%" style="border-radius: 8px;" />
+      </a>
       <h3 align="center">♟️ <a href="https://github.com/bkif/PhonkChess">PhonkChess</a></h3>
       <p align="center">
         <b>The world’s first open-source chess platform featuring phonk beats, dynamic edit animations, and free game analysis.</b>
@@ -42,6 +45,9 @@
       </p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/bkif/Winterwave">
+        <img src="https://raw.githubusercontent.com/bkif/Winterwave/main/preview.jpg" alt="Winterwave Preview" width="100%" style="border-radius: 8px;" />
+      </a>
       <h3 align="center">❄️ <a href="https://github.com/bkif/Winterwave">Winterwave</a></h3>
       <p align="center">
         <b>The world’s first playable 3D retro-rave open-world game built right inside a navigation app.</b>
@@ -58,7 +64,6 @@
     </td>
   </tr>
 </table>
-
 <!-- Cartes dynamiques GitHub épinglées -->
 <p align="center">
   <a href="https://github.com/bkif/PhonkChess">
