@@ -28,7 +28,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/bkif/PhonkChess">
-        <img src="https://raw.githubusercontent.com/bkif/PhonkChess/main/preview.jpg" alt="PhonkChess Preview" width="100%" style="border-radius: 8px;" />
+        <img src="https://github.com/user-attachments/assets/82a5e1f2-4f45-46ac-abe0-228dc60ccd14" alt="PhonkChess Preview" width="100%" style="border-radius: 8px;" />
       </a>
       <h3 align="center">♟️ <a href="https://github.com/bkif/PhonkChess">PhonkChess</a></h3>
       <p align="center">
@@ -45,9 +45,6 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/bkif/Winterwave">
-        <img src="https://raw.githubusercontent.com/bkif/Winterwave/main/preview.jpg" alt="Winterwave Preview" width="100%" style="border-radius: 8px;" />
-      </a>
       <h3 align="center">❄️ <a href="https://github.com/bkif/Winterwave">Winterwave</a></h3>
       <p align="center">
         <b>The world’s first playable 3D retro-rave open-world game built right inside a navigation app.</b>
