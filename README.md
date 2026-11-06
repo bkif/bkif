@@ -48,7 +48,7 @@
     <td width="50%" valign="top">
       <h3 align="center">❄️ <a href="https://github.com/bkif/Winterwave">Winterwave</a></h3>
       <p align="center">
-        <b>The world’s first playable 3D retro-rave open-world game built right inside a navigation app.</b>
+        <b>The world’s first playable 3D retro-rave open-world game built right inside chrome.</b>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
