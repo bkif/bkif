@@ -1,4 +1,3 @@
-<img src="https://github-readme-stats.vercel.app/api?username=bkif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f5576c&text_color=ffffff&border_radius=15" alt="Stats GitHub" height="175" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bkif&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=f5576c&currStreakLabel=667eea&sideLabels=ffffff&dates=ffffff&border_radius=15" alt="Streak Stats" height="175" />
 </p>
 
